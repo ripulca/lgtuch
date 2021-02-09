@@ -1,0 +1,6 @@
+﻿  prog5.2.cpp
+C:\Users\anpeh\source\repos\prog5.2\prog5.2\prog5.2.cpp(100,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\anpeh\source\repos\prog5.2\prog5.2\prog5.2.cpp(101,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\anpeh\source\repos\prog5.2\prog5.2\prog5.2.cpp(101,12): warning C4101: b: неиспользованная локальная переменная
+C:\Users\anpeh\source\repos\prog5.2\prog5.2\prog5.2.cpp(101,15): warning C4101: num: неиспользованная локальная переменная
+  prog5.2.vcxproj -> C:\Users\anpeh\source\repos\prog5.2\Debug\prog5.2.exe

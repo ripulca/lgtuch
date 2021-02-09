@@ -1,0 +1,12 @@
+﻿  proga4.cpp
+C:\Users\anpeh\source\repos\proga4\proga4\Hash.h(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anpeh\source\repos\proga4\proga4\Hash.h(43,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\anpeh\source\repos\proga4\proga4\Hash.h(49,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\anpeh\source\repos\proga4\proga4\Hash.h(56,37): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\anpeh\source\repos\proga4\proga4\proga4.cpp(45,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anpeh\source\repos\proga4\proga4\proga4.cpp(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anpeh\source\repos\proga4\proga4\proga4.cpp(30,8): warning C4101: data: неиспользованная локальная переменная
+C:\Users\anpeh\source\repos\proga4\proga4\proga4.cpp(31,7): warning C4101: data1: неиспользованная локальная переменная
+C:\Users\anpeh\source\repos\proga4\proga4\proga4.cpp(228,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anpeh\source\repos\proga4\proga4\proga4.cpp(264,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  proga4.vcxproj -> C:\Users\anpeh\source\repos\proga4\Debug\proga4.exe
