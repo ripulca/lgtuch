@@ -1,0 +1,24 @@
+﻿<Window x:Class="kur2k.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kur2k"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="Root" Background="LavenderBlush">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="223*" />
+        </Grid.RowDefinitions>
+        <Menu x:Name="Btns_menu" HorizontalAlignment="Left" Height="73" VerticalAlignment="Top" Width="792" RenderTransformOrigin="0.562,-0.002" Background="Lavender">
+            <Button x:Name="Add_btn" Content="Add" Width="124" Height="73" Click="Add_btn_Click"/>
+            <Button x:Name="Clean_btn" Content="Clean" Width="124" Height="73" Click="Clean_btn_Click"/>
+            <Button x:Name="SaveImg_btn" Content="Save as Img" Width="124" Height="73" Click="SaveImg_btn_Click"/>
+            <Button x:Name="SaveXaml_btn" Content="Save as XAML" Width="124" Height="73" Click="SaveXaml_btn_Click"/>
+            <Button x:Name="Open_btn" Content="Open XAML" Width="124" Height="73" Click="Open_btn_Click"/>
+        </Menu>
+        <Canvas x:Name="Paint_surf" HorizontalAlignment="Left" Height="326" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="772" Background="LavenderBlush" MouseMove="Paint_surf_MouseMove" MouseLeftButtonDown="Paint_surf_MouseLeftButtonDown" MouseLeftButtonUp="Paint_surf_MouseLeftButtonUp" MouseRightButtonDown="Paint_surf_MouseRightButtonDown"/>
+
+    </Grid>
+</Window>

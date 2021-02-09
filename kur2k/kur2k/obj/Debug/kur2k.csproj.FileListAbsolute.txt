@@ -1,0 +1,17 @@
+C:\Users\anpeh\source\repos\kur2k\kur2k\bin\Debug\kur2k.exe.config
+C:\Users\anpeh\source\repos\kur2k\kur2k\bin\Debug\kur2k.exe
+C:\Users\anpeh\source\repos\kur2k\kur2k\bin\Debug\kur2k.pdb
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k.csprojAssemblyReference.cache
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\MainWindow.g.cs
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\App.g.cs
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k_MarkupCompile.cache
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k_MarkupCompile.lref
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\MainWindow.baml
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k.g.resources
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k.Properties.Resources.resources
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k.csproj.GenerateResource.cache
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k.csproj.CoreCompileInputs.cache
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k.exe
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\kur2k.pdb
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\TextInputWindow.g.cs
+C:\Users\anpeh\source\repos\kur2k\kur2k\obj\Debug\TextInputWindow.baml

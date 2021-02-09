@@ -1,0 +1,19 @@
+﻿<Window x:Class="kur2k.TextInputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kur2k"
+        mc:Ignorable="d"
+        Title="TextInputWindow" Height="232.115" Width="417.589">
+    <Grid Margin="0,0,-8,131" RenderTransformOrigin="1.323,0.924">
+        <TextBlock Margin="141,31,131,-31" FontSize="10"> Enter name and coordinates</TextBlock>
+        <TextBox Name="ShopName" RenderTransformOrigin="0.571,1.177" Margin="101,72,101,-36" TextChanged="ShopName_TextChanged"/>
+        <WrapPanel RenderTransformOrigin="0.52,1.774" Margin="0,167,147,-167" HorizontalAlignment="Right">
+            <Button IsDefault="True" Click="Accept_Click" MinWidth="60" Margin="0,0,10,0">OK</Button>
+            <Button IsCancel="True" MinWidth="60" Click="Button_Click">Отмена</Button>
+        </WrapPanel>
+        <TextBox Name="X" HorizontalAlignment="Left" Height="23" Margin="101,127,0,-80" TextWrapping="Wrap" VerticalAlignment="Top" Width="45" TextChanged="X_TextChanged"/>
+        <TextBox Name="Y" HorizontalAlignment="Left" Height="23" Margin="271,127,0,-80" TextWrapping="Wrap" VerticalAlignment="Top" Width="46" TextChanged="Y_TextChanged"/>
+    </Grid>
+</Window>
