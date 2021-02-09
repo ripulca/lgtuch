@@ -1,0 +1,42 @@
+﻿  IDZprog(2sem).cpp
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(21,10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(39,10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(54,11): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(68,11): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(217,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(217,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(225,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(225,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(226,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(226,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(227,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(227,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(229,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(229,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(238,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(238,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(247,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(247,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(250,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(250,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(253,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(253,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(261,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(261,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(264,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(264,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(267,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(267,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(270,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(270,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(284,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(284,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(287,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(287,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(291,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(291,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(309,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(76): warning C4715: yravn: значение возвращается не при всех путях выполнения
+C:\Users\anpeh\source\repos\IDZprog(2sem)\IDZprog(2sem)\IDZprog(2sem).cpp(97): warning C4715: prin: значение возвращается не при всех путях выполнения
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  IDZprog(2sem).vcxproj -> C:\Users\anpeh\source\repos\IDZprog(2sem)\Debug\IDZprog(2sem).exe

@@ -1,0 +1,3 @@
+﻿  oop 1.cpp
+C:\Users\anpeh\source\repos\oop 1\oop 1\oop 1.cpp(210): warning C4715: FiR::add: значение возвращается не при всех путях выполнения
+  oop 1.vcxproj -> C:\Users\anpeh\source\repos\oop 1\Debug\oop 1.exe
