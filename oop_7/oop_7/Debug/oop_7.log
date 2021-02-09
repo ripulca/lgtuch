@@ -1,0 +1,4 @@
+﻿  oop_7.cpp
+C:\Users\anpeh\source\repos\oop_7\oop_7\oop_7.cpp(97,2): warning C4091: static : пропускается слева от "Department", когда ни одна переменная не объявлена
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  oop_7.vcxproj -> C:\Users\anpeh\source\repos\oop_7\Debug\oop_7.exe

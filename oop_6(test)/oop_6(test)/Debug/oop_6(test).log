@@ -1,0 +1,7 @@
+﻿  oop_6(test).cpp
+C:\Users\anpeh\source\repos\oop_6(test)\oop_6(test)\oop_6(test).cpp(77,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\oop_6(test)\oop_6(test)\oop_6(test).cpp(79,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\oop_6(test)\oop_6(test)\oop_6(test).cpp(90,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\anpeh\source\repos\oop_6(test)\oop_6(test)\oop_6(test).cpp(92,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  oop_6(test).vcxproj -> C:\Users\anpeh\source\repos\oop_6(test)\Debug\oop_6(test).exe

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elementary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <element>
+    <Ship xsi:type="Cruise">
+      <country>uewtir</country>
+      <name>galvkdf</name>
+      <weight>54</weight>
+      <price>7547</price>
+      <serial_number>5</serial_number>
+    </Ship>
+    <Ship xsi:type="Warship">
+      <country>oiefgh</country>
+      <name>jgds</name>
+      <weight>546</weight>
+      <price>658</price>
+      <weapon>true</weapon>
+    </Ship>
+  </element>
+</Elementary>
