@@ -1,0 +1,6 @@
+﻿  oop_8.cpp
+C:\Users\anpeh\source\repos\oop_8\oop_8\oop_8.cpp(91): warning C4715: Matrix::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\anpeh\source\repos\oop_8\oop_8\oop_8.cpp(108): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+C:\Users\anpeh\source\repos\oop_8\oop_8\oop_8.cpp(142): warning C4715: operator-: значение возвращается не при всех путях выполнения
+C:\Users\anpeh\source\repos\oop_8\oop_8\oop_8.cpp(125): warning C4715: operator+: значение возвращается не при всех путях выполнения
+  oop_8.vcxproj -> C:\Users\anpeh\source\repos\oop_8\Debug\oop_8.exe
