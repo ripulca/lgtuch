@@ -1,0 +1,3 @@
+﻿  texprog5.cpp
+C:\Users\anpeh\source\repos\texprog5\texprog5\texprog5.cpp(60,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  texprog5.vcxproj -> C:\Users\anpeh\source\repos\texprog5\Debug\texprog5.exe

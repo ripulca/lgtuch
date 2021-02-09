@@ -1,0 +1,5 @@
+﻿  shablon_Nlent.cpp
+C:\Users\anpeh\source\repos\shablon_Nlent\shablon_Nlent\shablon_Nlent.cpp(85,22): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\anpeh\source\repos\shablon_Nlent\shablon_Nlent\shablon_Nlent.cpp(121,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\anpeh\source\repos\shablon_Nlent\shablon_Nlent\shablon_Nlent.cpp(129,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  shablon_Nlent.vcxproj -> C:\Users\anpeh\source\repos\shablon_Nlent\Debug\shablon_Nlent.exe

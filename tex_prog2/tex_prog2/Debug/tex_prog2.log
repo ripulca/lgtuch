@@ -1,0 +1,3 @@
+﻿  tex_prog2.cpp
+C:\Users\anpeh\source\repos\tex_prog2\tex_prog2\tex_prog2.cpp(193,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tex_prog2.vcxproj -> C:\Users\anpeh\source\repos\tex_prog2\Debug\tex_prog2.exe

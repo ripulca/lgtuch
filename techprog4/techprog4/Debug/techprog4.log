@@ -1,0 +1,4 @@
+﻿  techprog4.cpp
+C:\Users\anpeh\source\repos\techprog4\techprog4\techprog4.cpp(503,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\anpeh\source\repos\techprog4\techprog4\techprog4.cpp(438): warning C4715: RightNeighbour: значение возвращается не при всех путях выполнения
+  techprog4.vcxproj -> C:\Users\anpeh\source\repos\techprog4\Debug\techprog4.exe
