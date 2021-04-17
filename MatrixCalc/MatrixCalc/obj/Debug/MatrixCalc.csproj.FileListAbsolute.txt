@@ -1,0 +1,15 @@
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe.config
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.pdb
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csprojAssemblyReference.cache
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MainWindow.g.cs
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\App.g.cs
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc_MarkupCompile.cache
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc_MarkupCompile.lref
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MainWindow.baml
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.g.resources
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.Properties.Resources.resources
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.GenerateResource.cache
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.exe
+C:\Users\anpeh\source\repos\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="MatrixCalc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MatrixCalc"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+         ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid x:Name="Panel" Margin="0,0,0,363" Background="LightGray">
+            <Button Content="Plus" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Height="58" Click="Plus_Click"/>
+            <Button Content="Multiply" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Margin="136,0,0,0" Height="58" Click="Multiply_Click"/>
+            <Button Content="Det" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Margin="272,0,0,0" Height="58" Click="Det_Click"/>
+            <Button Content="Clean" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Margin="408,0,0,0" Height="58" Click="Clean_Click"/>
+            <Button Content="Clean All" HorizontalAlignment="Left" VerticalAlignment="Top" Width="131" Margin="544,0,0,0" Height="58" Click="CleanAll_Click"/>
+        </Grid>
+        <Grid Name="Table" Margin="0,58,0,0">
+        </Grid>
+    </Grid>
+</Window>
