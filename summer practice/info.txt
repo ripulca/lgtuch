@@ -1,0 +1,10 @@
+' info 
+Day: 27 June  Max temp: 31.91 °C  Ave temp: 30.79 °C  Min temp: 18.62 °C
+Day: 28 June  Max temp: 26.11 °C  Ave temp: 25.13 °C  Min temp: 19.56 °C
+Day: 29 June  Max temp: 22.99 °C  Ave temp: 20.9 °C  Min temp: 17.12 °C
+Day: 30 June  Max temp: 23.34 °C  Ave temp: 21.27 °C  Min temp: 16.26 °C
+Day: 1 June  Max temp: 26.47 °C  Ave temp: 25.48 °C  Min temp: 15.16 °C
+Day: 2 June  Max temp: 27.75 °C  Ave temp: 27.02 °C  Min temp: 18.03 °C
+Day: 3 June  Max temp: 20.79 °C  Ave temp: 18.54 °C  Min temp: 17.78 °C
+Day: 4 June  Max temp: 24.87 °C  Ave temp: 23.86 °C  Min temp: 14.36 °C
+Max temp day: 27 June  Max temp: 30.79 °C'
